@@ -1,6 +1,5 @@
 import { Paper, Typography } from "@mui/material"
-import { colorPallete } from "../../assets"
-import { INoticeBoardProps, IWinningBoardProps } from "../../interfaces"
+import { IWinningBoardProps } from "../../interfaces"
 import { useTheme } from '@mui/material/styles'
 import { Theme } from '@mui/material/styles'
 
